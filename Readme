@@ -1,3 +1,7 @@
 Robust Non-negative Matrix Factorization With Self-initiated Multi-Graph Contrastive Fusion
 
-The code will coming soon
+Code in Matlab for the paper "Robust Non-negative Matrix Factorization With Self-initiated Multi-Graph Contrastive Fusion", IEEE TNNLS 2024. 
+
+There is a demo in demo_coil20.m working for COIL20 recognition.
+
+If this code is helpful to you, please refer to the above paper.
